@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/xaosaki/library-playground/compare/button@1.0.2...button@1.0.3) (2020-05-13)
+
+
+### Bug Fixes
+
+* button now is a button! ([0855614](https://github.com/xaosaki/library-playground/commit/08556140163c6d780bd8bdb556ce14c997d0c75b))
+
+
+
+
+
 ## [1.0.2](https://github.com/xaosaki/library-playground/compare/button@1.0.1...button@1.0.2) (2020-05-13)
 
 
