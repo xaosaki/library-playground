@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/xaosaki/library-playground/compare/button@1.0.1...button@1.0.2) (2020-05-13)
+
+
+### Bug Fixes
+
+* add Test! ([74eb268](https://github.com/xaosaki/library-playground/commit/74eb2681f4fbd048d4bdaa96060468a5b5859eb5))
+
+
+
+
+
 ## [1.0.1](https://github.com/xaosaki/library-playground/compare/button@1.0.0...button@1.0.1) (2020-05-13)
 
 **Note:** Version bump only for package button
