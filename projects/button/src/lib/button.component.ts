@@ -3,9 +3,9 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'lib-button',
   template: `
-    <p>
-      Button! Test!
-    </p>
+    <button type="button">
+      Button!
+    </button>
   `,
   styles: []
 })
